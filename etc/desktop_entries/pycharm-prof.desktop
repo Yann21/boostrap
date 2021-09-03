@@ -1,8 +1,8 @@
 [Desktop Entry]
 Type=Application
-Version=0.0
-Name=PlantUML
+Version=2019
+Name=PyCharm Professional Edition
 Comment=No comment
-Exec=/usr/bin/plantuml
+Exec=/home/yann/Code/tools/Pycharm2019/pycharm-2019.3.4/bin/pycharm.sh
 Icon=/home/yann/system/etc/icons/pycharm.png
 Categories=Development;IDE;

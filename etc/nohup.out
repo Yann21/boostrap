@@ -1,0 +1,34 @@
+
+(ulauncher:499405): Gdk-CRITICAL **: 20:20:48.714: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(ulauncher:499405): Gtk-WARNING **: 20:20:50.784: Could not load a pixbuf from icon theme.
+This may indicate that pixbuf loaders or the mime database could not be found.
+2021-07-03 20:20:50,822 | [1;33mWARNING[0m | ulauncher.utils.image_loader: load_image() | Could not load image /usr/share/icons/Humanity/devices/48/printer.svg. E: g-file-error-quark: Failed to open file “/usr/share/icons/Humanity/devices/48/printer.svg”: No such file or directory (4)
+2021-07-03 20:20:50,900 | [1;33mWARNING[0m | ulauncher.utils.image_loader: load_image() | Could not load image /opt/dbschema/config/appearance/images/icon.png. E: g-file-error-quark: Failed to open file “/opt/dbschema/config/appearance/images/icon.png”: No such file or directory (4)
+OpenJDK 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+2021-07-03 20:21:00,031 [   2534]   WARN - com.intellij.ide.ui.LafManager - List.rowHeight = 0 in IntelliJ; it may lead to performance degradation 
+2021-07-03 20:21:00,031 [   2534]   WARN - com.intellij.ide.ui.LafManager - Table.rowHeight = 0 in IntelliJ; it may lead to performance degradation 
+2021-07-03 20:21:00,031 [   2534]   WARN - com.intellij.ide.ui.LafManager - Tree.rowHeight = 0 in IntelliJ; it may lead to performance degradation 
+2021-07-03 20:21:00,284 [   2787]   WARN - s.impl.EditorColorsManagerImpl - Cannot find scheme: VibrantInk from plugins: com.intellij.database 
+2021-07-03 20:21:06,180 [   8683]   WARN - om.intellij.util.FieldAccessor - Field not found: javafx.embed.swing.JFXPanel.scaleFactor 
+2021-07-03 20:21:12,835 [  15338]   WARN - .skeletons.PySkeletonRefresher - Some skeletons failed to generate 
+2021-07-03 20:21:12,835 [  15338]   WARN - .skeletons.PySkeletonRefresher - scipy.optimize._lsap_ 
+Launching './Browser/start-tor-browser --detach'...
+Tor Browser Launcher
+By Micah Lee, licensed under MIT
+version 0.3.4
+https://github.com/micahflee/torbrowser-launcher
+Launching Tor Browser.
+Running /home/yann/.local/share/torbrowser/tbb/x86_64/tor-browser_en-US/start-tor-browser.desktop
+Tor Browser Launcher
+By Micah Lee, licensed under MIT
+version 0.3.4
+https://github.com/micahflee/torbrowser-launcher
+Launching './Browser/start-tor-browser --detach'...
+Tor Browser Launcher
+By Micah Lee, licensed under MIT
+version 0.3.4
+https://github.com/micahflee/torbrowser-launcher
+Launching Tor Browser.
+Running /home/yann/.local/share/torbrowser/tbb/x86_64/tor-browser_en-US/start-tor-browser.desktop
+2021-07-03 21:25:50,063 | [1;31mERROR[0m | ulauncher.api.server.ExtensionRunner: _run_process() | Extension "com.github.katacarbix.ulauncher-dict-en" was terminated with code -15

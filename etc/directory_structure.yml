@@ -1,12 +1,12 @@
 home:
   - yann:
     - Documents:
-      - media:
+      - Media:
         - screenshots
         - calibre
       - Zotero
 
-    - scripts:
+    - system:
       - bin
       - etc:
         - directory_structure

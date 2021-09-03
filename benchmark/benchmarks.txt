@@ -1,0 +1,6 @@
+CacheBench (quick test)
+C-Ray (CPU multithreading)
+RAMspeed
+Dbench (disk speed)
+
+UnigineHeaven (GPU)

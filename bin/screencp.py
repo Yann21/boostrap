@@ -10,7 +10,7 @@ Script is modify file structure resilient.
 """
 
 HOME = os.environ.get("HOME")
-with open(f"{HOME}/scripts/etc/directory_structure.yml", "r") as stream:
+with open(f"{HOME}/system/etc/directory_structure.yml", "r") as stream:
     tree = yaml.safe_load(stream)
 
 # Only captures terminal files in tree structure
